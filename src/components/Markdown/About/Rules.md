@@ -1,23 +1,23 @@
-### Main
+### Главная
 
-+ Administration reserves the right to change any rule without notice.
-+ By using this site or uploading data, you agree to all rules automatically.
-
-&nbsp;
-
-### Uploads
-
-+ Any upload can be removed by administration without any notification.
-+ Any upload can be rejected from being published for any reason without notice.
-+ You cannot opt-out from our service. Your character name and your class performance is NOT personally identifiable information.
-+ Uploads to our service are not eligible to be used as evidence in discussion(s) with publishers of the game.
-+ Using in-game bugs, cheats, or exploits can lead to upload removal. This includes intentionally bugging boss mechanics.
-+ Administration is not obligated to manually detect bugged runs or cheaters.
++ Администрация оставляет за собой право изменять любые правила без предварительного уведомления.
++ Используя данный сайт или загружая данные, вы автоматически соглашаетесь со всеми правилами.
 
 &nbsp;
 
- ### Reports
+### Выгрузка
 
-+ Any security related report MUST be reported in private message with administration only. All other issues may be publically reported.
-+ You may issue a report against any player for abusing bugs, cheating or exploiting, as long as you have enough evidence. Reports of this nature can be done publicly. However, if your evidence is not strong enough, it will not result in punishment.
-+ Fake reports will never help you achieve better rank.
++ Любая выгрузка может быть удалена администрацией без уведомления.
++ Любая выгрузка может быть отклонена от публикации по любой причине без уведомления.
++ Вы не можете отказаться от использования нашего сервиса. Имя вашего персонажа и его классовые характеристики НЕ являются персональной информацией.
++ Загруженные на наш сервис материалы не могут быть использованы в качестве доказательств в дискуссиях с издателями игры.
++ Использование внутриигровых багов, читов или эксплойтов может привести к удалению загружаемых файлов. Это относится и к намеренному использованию багов в механике боссов.
++ Администрация не обязана вручную выявлять баги или читеров.
+
+&nbsp;
+
+### Отчеты
+
++ Любые сообщения, связанные с безопасностью, ДОЛЖНЫ отправляться только в личные сообщения администрации. Обо всех остальных проблемах можно сообщать публично.
++ Вы можете подать сообщение на любого игрока за злоупотребление ошибками, читерство или эксплуатацию, если у вас достаточно доказательств. Сообщения такого рода могут быть сделаны публично. Однако если ваши доказательства недостаточно убедительны, это не приведет к наказанию.
++ Фальшивые сообщения никогда не помогут вам получить более высокий ранг.

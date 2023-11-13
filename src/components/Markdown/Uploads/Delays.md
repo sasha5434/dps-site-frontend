@@ -1,8 +1,8 @@
-### Delays
+### Задержки
 
-TeraLogs.com uses caching. It is means what sometimes fresh encounters can be excluded from expected search results.
+Asura TeraLogs использует кеширование. Это означает, что иногда выгрузки будут появляться на сайте с задержкой.
 
-Restrictions:
-+ Latest uploads can be delayed up to 2min
-+ Search results can be delayed up to 2min.
-+ Leaderboard results can be delayed up to 3h.
+Подробнее:
++ Последние выгрузки могут быть задержаны до 2 минут.
++ Результаты поиска могут быть задержаны до 2 минут.
++ Результаты таблицы лидеров могут быть отложены до 3 часов.

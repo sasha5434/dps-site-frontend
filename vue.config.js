@@ -24,7 +24,7 @@ module.exports = {
 			});
 		config.plugin("html")
 			.tap(args => {
-				args[0].title = "TeraLogs - Tera Online damage statistic storage site";
+				args[0].title = "Asura TeraLogs - Tera Online damage statistic storage site for server Asura.";
 				return args;
 			});
 		config.optimization.minimizer("terser")

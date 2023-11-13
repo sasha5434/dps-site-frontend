@@ -1,15 +1,15 @@
-### Leaderboards
+### Таблицы рейтинга
 
-Current leaderboard working in "seasonal" mode.
-It means what leaderboard being rotated every month.
-This allow to keep only active players and wipe old runs from previous patches or events. 
-Ranking also including short term leaderboards:
-+ Per day (from every day start)
-+ Per week (from start from first day of week)
+Текущая таблица лидеров работает в «сезонном» режиме.
+Это означает, что таблица лидеров меняется каждый месяц.
+Это позволяет оставить только активных игроков и стереть старые версии предыдущих патчей или событий.
+Рейтинг также включает краткосрочные таблицы лидеров:
++ В день (с начала каждого дня)
++ В неделю (с начала с первого дня недели)
 
 &nbsp;
 
-Leaderboard DOES NOT include:
-+ Party composition with 2+ healers
-+ Party composition with 2+ tanks
-+ Regional consumables/event buffs/event food
+Таблица лидеров НЕ включает в себя:
++ Состав партии с 2+ целителями
++ Состав партии из 2+ танков
++ Региональные расходные материалы/ивентовые усиления/ивентовая еда

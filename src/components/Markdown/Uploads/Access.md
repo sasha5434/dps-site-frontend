@@ -1,3 +1,3 @@
-### Status
+### Статус
 
-Currently invites gets distributed through official discord only
+В настоящее время приглашения распространяются только через официальный Discord.

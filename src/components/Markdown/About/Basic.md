@@ -1,9 +1,10 @@
-### Main
+### Главная
 
-TeraLogs.com is an open-source database application for storing user uploaded data about class, game, and player's performance for the game TERA Online.
+Asura TeraLogs это приложение с открытым исходным кодом, предназначенное для хранения загруженных пользователями данных о классе, игре и результатах игрока в игре TERA Online на сервере Asura.
 
 &nbsp;
 
-### Supported regions
+### Поддерживаемые серверы
 
- NA, EU, RU (published by GameForge)
+На данный момент поддерживается только наш сервер:
+RU Asura

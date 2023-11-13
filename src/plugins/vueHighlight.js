@@ -1,4 +1,4 @@
-import VueHighlightJS from "vue-highlight.js";
+import VueHighlightJS from "@highlightjs/vue-plugin";
 
 export function useHighlight(app) {
 	app.use(VueHighlightJS, {

@@ -1,20 +1,24 @@
-### 3rd party content:
 
-+ All pictures related to TERA Online (such as abnormalities and skills) are property of KRAFTON, Inc. / Bluehole Studio, Inc.
-+ All buff and skill descriptions as well as area, boss, and class names are property of KRAFTON, Inc. / Bluehole Studio, Inc.
-+ Class icon SVGs were created by Foglio.
+### Контент сторонних авторов:
 
-&nbsp;
-
-### Cookies, local storage, files
-
-+ TeraLogs.com blocks Google analytics.
-+ TeraLogs.com does not store cookies on your PC.
-+ TeraLogs.com uses your browser's local storage for basic settings.
-+ TeraLogs.com uses your browser's cache to load the website faster on subsequent visits.
++ Все изображения, относящиеся к TERA Online (например, (временное усиление игрока и навыков), являются собственностью компании KRAFTON, Inc. / Bluehole Studio, Inc.
++ Все описания усилений и умений, а также названия областей, боссов и классов являются собственностью of KRAFTON, Inc. / Bluehole Studio, Inc.
++ SVG-файлы значков классов были созданы компанией Foglio.
 
 &nbsp;
 
-### Personal data
+###
 
-+ TeraLogs.com does not collect, process, store or share your personal data.
+Cookies, локальное хранилище, файлы
+
++ Asura TeraLogs блокирует аналитику Google.
++ Asura TeraLogs не хранит файлы cookie на вашем компьютере.
++ Asura TeraLogs использует локальное хранилище браузера для базовых настроек.
++ Asura TeraLogs использует кэш вашего браузера для ускорения загрузки сайта при последующих посещениях.
+&nbsp;
+
+###
+
+Персональные данные
+
++ Asura TeraLogs не собирает, не обрабатывает, не хранит и не передает ваши персональные данные.

@@ -1,30 +1,31 @@
-### Prerequisite
+### Вам понадобятся
 
-+ TeraLogs api access key
++ Asura TERA Online Client
 + Windows OS
 + ShinraMeter DPS meter
++ (Optional) TERA ToolBox
 
 &nbsp;
 
-### Setup
+### Настройка
 
-Choose in ShinraMeter settings `Servers settings`
+Выберите в настройках ShinraMeter `Настройки серверов`
 
-![shinra main pic](https://teralogs.com/static/shinra/shinraServers.png "Servers configuration")
-
-&nbsp;
-
-Fill data with values:
-
-+ Username - keep it EMPTY
-+ Auth token - your teralogs access token
-+ DPS upload url - `https://api.teralogs.com/v1/upload`
-+ Allowed area url - `https://api.teralogs.com/v1/whitelist`
-+ Glyph upload url - keep it EMPTY
+![shinra main pic](https://teralogs.tera-asura.ru/static/shinra/shinraServers.png "Конфигурация серверов")
 
 &nbsp;
 
-![shinra filled pic](https://teralogs.com/static/shinra/shinraServersFinal.png "Configured servers")
+Заполните поля значениями:
+
++ Имя пользователя - оставьте ПУСТЫМ
++ Auth token - оставьте ПУСТЫМ
++ Адрес загрузки DPS - `https://api.tera-asura.ru/v1/upload`
++ Адрес списка боссов - `https://api.tera-asura.ru/v1/whitelist`
++ Адрес загрузки глифбила - оставьте ПУСТЫМ
 
 &nbsp;
-## DONE!
+
+![shinra filled pic](https://teralogs.tera-asura.ru/static/shinra/shinraServersFinal.png "Конфигурация серверов")
+
+&nbsp;
+## ГОТОВО!

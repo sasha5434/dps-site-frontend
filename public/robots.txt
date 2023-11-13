@@ -1,4 +1,4 @@
-Sitemap: https://teralogs.com/sitemap.xml
+Sitemap: https://teralogs.tera-asura.ru/sitemap.xml
 
 User-agent: AdsBot-Google
 Disallow: /static/dpsData
